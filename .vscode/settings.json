@@ -2,5 +2,6 @@
     "emmet.includeLanguages": {
        "javascript": "javascriptreact"
    },
-   "emmet.extensionsPath": ""
+"emmet.extensionsPath": "",
+"html.format.contentUnformatted": ""
 }
